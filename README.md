@@ -1,4 +1,4 @@
-德州AI，德州扑克AI，出售AI源码和训练模型；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
+德州AI，德州扑克AI，德州AI源码，德州AI训练模型，德州扑克源码，德州俱乐部，德州金币大厅也出，出AI源码和训练模型；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
 # MasterAI-1.0-1vs1-Limit
 
 ## Introduction
