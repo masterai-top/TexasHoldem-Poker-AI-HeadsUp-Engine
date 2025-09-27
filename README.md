@@ -7,7 +7,7 @@ Sản phẩm tinh xảo, chất lượng mã nguồn đáng tin cậy.
 
 Bao gồm nhiều thể loại chơi poker Texas như: SNG, MTT, Texas cổ điển, Pineapple lớn, Short Deck và 7–8 kiểu chơi khác.
 
-Có liên minh, trò chuyện thoại.
+Có liên minh, trò chuyện thoại. Mã nguồn Texas, mã nguồn trò chơi Texas Hold'em
 
 Liên hệ qua Telegram: @xuzongbin001
 
