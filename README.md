@@ -1,5 +1,15 @@
 德州AI，德州扑克AI，德州AI源码，德州AI训练模型，德州扑克源码，德州俱乐部，德州金币大厅也出，出AI源码和训练模型；联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
 # MasterAI-1.0-1vs1-Limit
+mã nguồn game Texas Hold'em
+Câu lạc bộ Texas Hold'em, bàn chơi riêng tư, bàn bạn bè, trò chơi poker Texas Hold'em, mã nguồn poker Texas Hold'em, trò chơi poker Texas Hold'em, mã nguồn trò chơi poker Texas Hold'em.
+
+Sản phẩm tinh xảo, chất lượng mã nguồn đáng tin cậy.
+
+Bao gồm nhiều thể loại chơi poker Texas như: SNG, MTT, Texas cổ điển, Pineapple lớn, Short Deck và 7–8 kiểu chơi khác.
+
+Có liên minh, trò chuyện thoại.
+
+Liên hệ qua Telegram: @xuzongbin001
 
 ## Introduction
 
