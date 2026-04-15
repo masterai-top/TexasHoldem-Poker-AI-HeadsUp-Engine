@@ -20,7 +20,7 @@
 | 比赛形式 | 一对一有限押注 (0-100BB) |
 
 ---
-# 🤖 Texas Holdem Poker AI (1v1 Heads-Up Engine)
+# 🤖 Texas Holdem Poker AI (1v1  Heads-Up Engine)|(1v9  Heads-Up Engine)
 
 💡 Advanced Poker AI trained with game theory & reinforcement learning  
 💡 高级德州扑克AI（博弈论 + 强化学习）  
