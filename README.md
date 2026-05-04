@@ -134,7 +134,7 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示视频 + 详细报价**
+👉 **联系我获取演示视频**
 
 ---
 
