@@ -1,4 +1,4 @@
-# ♠️ MasterAI - 德州扑克最强AI | World-Class Texas Hold'em AI
+# ♠️ MasterAI - 德州扑克最强AI |德州AI| World-Class Texas Hold'em AI
 
 > **战胜14位中国顶级职业选手 | 每百手赢利36.38大盲 | 基于CFR+GTO的超级AI**
 
