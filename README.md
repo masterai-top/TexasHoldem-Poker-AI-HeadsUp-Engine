@@ -1,4 +1,4 @@
-# ♠️ MasterAI - 德州扑克AI |德州扑克最强AI |德州扑克AI源码|德州AI|德州AI|德州CFR| World-Class Texas Hold'em AI
+# ♠️ MasterAI - 德州扑克AI |德州扑克最强AI |德州扑克AI源码|德州AI|德州辅助软件|德州AI|德州CFR| World-Class Texas Hold'em AI
 
 > **战胜14位中国顶级职业选手 | 每百手赢利36.38大盲 | 基于CFR+GTO的超级AI**
 
@@ -166,6 +166,8 @@ MasterAI赛事情况如下 ：
 
 ![Stars](https://img.shields.io/github/stars/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine)
+<img width="344" height="475" alt="微信图片_20260320173436" src="https://github.com/user-attachments/assets/5271c81f-0e66-4bea-a17c-bb0e67850453" />
+
 
 
 
