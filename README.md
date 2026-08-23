@@ -1,6 +1,5 @@
-# ♠️ MasterAI - 德州扑克AI |德州扑克最强AI |德州扑克AI源码|德州AI|德州辅助软件|德州AI|德州CFR| World-Class Texas Hold'em AI
+# ♠️ MasterAI - 德州扑克AI  |德州AI|基于CFR与深度强化学习的德州扑克AI研究项目|德州CFR
 
-> **战胜14位中国顶级职业选手 | 每百手赢利36.38大盲 | 基于CFR+GTO的AI**
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Win Rate](https://img.shields.io/badge/AI胜率-顶级职业选手-red)]()
@@ -10,7 +9,7 @@
 
 ## 🏆 战绩证明 | Proven Results
 
-> **2020年9月，MasterAI 在与14位中国顶级职业选手的31561手牌对决中，以每百手赢取36.38大盲的优势取胜**
+> **2020年9月22日，MasterAI 在与14位中国顶级职业选手的31561手牌对决中，以每百手赢取36.38大盲的优势取胜**
 
 | 指标 | 数据 |
 | :--- | :--- |
@@ -29,8 +28,6 @@
 🔥 Real Decision-Making Engine  
 🔥 High-Level Strategy Simulation  
 
-👉 🎥 Demo Available  
-👉 📩 Contact for Full Version  
 
 ---
 
@@ -77,28 +74,7 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 
 ---
 
-## 📊 Performance (Example)
 
-- Win rate vs basic AI: +XX%  
-- Strategy depth: Advanced  
-- Supports long-term learning  
-
----
----
-
-## 🚀 Use Cases
-
-- Poker AI research  
-- Game AI development  
-- Commercial poker system integration  
-
----
-
-## 💼 Commercial Version
-
-- Full AI model  
-- Training system  
-- Deployment support  
 
 ## 🧠 AI Core/AI说明（核心）
 
@@ -116,10 +92,10 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 
 | 场景 | 说明 |
 | :--- | :--- |
-| 🎮 **AI陪玩** | 接入你的德州游戏，提供高难度AI对手 |
+| 🎮 **AI对战测试** | 接入你的德州游戏，提供高难度AI对手 |
 | 📚 **学术研究** | CFR、GTO算法的完整实现参考 |
 | 🤖 **AI辅助软件** | 实时分析建议，辅助人类决策 |
-| 🏢 **俱乐部系统** | 完整德州俱乐部源码（可另购） |
+| 🏢 **俱乐部系统** | 德州俱乐部游戏 |
 
 ---
 
@@ -142,7 +118,7 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 
 ---
 
-⭐ Star 这个仓库，支持世界级德州AI的持续进化！
+⭐ Star 这个仓库，谢谢支持
 
 ## 📸 实战截图
 
