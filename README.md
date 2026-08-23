@@ -108,14 +108,6 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 📧 **Email：masterai918@gmail.com**
 
 
-
----
-
-## 📚 相关链接
-
-- [德州扑克完整游戏源码](https://github.com/masterai-top/Texas-game-source-code)
-- [AI对战演示站](http://master.deeptexas.ai/aigame/)
-
 ---
 
 ⭐ Star 这个仓库，谢谢支持
