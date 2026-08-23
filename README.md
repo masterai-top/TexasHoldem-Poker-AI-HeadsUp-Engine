@@ -1,7 +1,6 @@
 # ♠️ MasterAI - 德州扑克AI  |德州AI|基于CFR与深度强化学习的德州扑克AI研究项目|德州CFR
 
 
-[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Win Rate](https://img.shields.io/badge/AI胜率-顶级职业选手-red)]()
 [![Platform](https://img.shields.io/badge/平台-Linux%20%7C%20Windows-green)]()
 
@@ -88,14 +87,7 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 - Average decision time: XX ms
 - Strategy depth: Advanced
 
-## 🎯 适用场景 | Use Cases
 
-| 场景 | 说明 |
-| :--- | :--- |
-| 🎮 **AI对战测试** | 接入你的德州游戏，提供高难度AI对手 |
-| 📚 **学术研究** | CFR、GTO算法的完整实现参考 |
-| 🤖 **AI辅助软件** | 实时分析建议，辅助人类决策 |
-| 🏢 **俱乐部系统** | 德州俱乐部游戏 |
 
 ---
 
