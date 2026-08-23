@@ -123,7 +123,7 @@ MasterAI赛事情况如下 ：
 
 ![Stars](https://img.shields.io/github/stars/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine)
-<img width="344" height="475" alt="微信图片_20260320173436" src="https://github.com/user-attachments/assets/5271c81f-0e66-4bea-a17c-bb0e67850453" />
+
 
 
 
