@@ -1,6 +1,6 @@
 # ♠️ MasterAI - 德州扑克AI |德州扑克最强AI |德州扑克AI源码|德州AI|德州辅助软件|德州AI|德州CFR| World-Class Texas Hold'em AI
 
-> **战胜14位中国顶级职业选手 | 每百手赢利36.38大盲 | 基于CFR+GTO的超级AI**
+> **战胜14位中国顶级职业选手 | 每百手赢利36.38大盲 | 基于CFR+GTO的AI**
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Win Rate](https://img.shields.io/badge/AI胜率-顶级职业选手-red)]()
@@ -123,18 +123,15 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 
 ---
 
-## 💰 获取源码 | Contact
 
-我们提供以下产品：
 
-- ✅ MasterAI 1vs1到1vs9 完整源码 + 训练模型
-- ✅ 德州扑克完整游戏源码（俱乐部+联盟+私人局）
-- ✅ 德州AI辅助软件
+###  💰问题反馈与交流
+仅限学术与技术交流
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示视频**
+
 
 ---
 
