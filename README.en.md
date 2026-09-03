@@ -128,8 +128,7 @@ For academic and technical discussion only
 ## 📸 Gameplay Screenshots
 
 
-| AI Match Interface | Win Rate Curve | Technical Architecture |
-| :---: | :---: | :---: |
+
 MasterAI tournament performance is as follows:
 ![640](https://github.com/user-attachments/assets/8982ce0a-4d9b-4c55-bfb2-ec8228e1a23a)
 ![640 (1)](https://github.com/user-attachments/assets/4c5591c7-e59a-4fde-8af9-723243ce0cf1)
