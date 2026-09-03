@@ -126,9 +126,6 @@ MasterAI 基于**博弈论(GTO) + 深度学习 + 强化学习**，采用以下�
 
 ## 📸 实战截图
 
-
-| AI对战界面 | 胜率曲线 | 技术架构 |
-| :---: | :---: | :---: |
 MasterAI赛事情况如下 ：
 ![640](https://github.com/user-attachments/assets/8982ce0a-4d9b-4c55-bfb2-ec8228e1a23a)
 ![640 (1)](https://github.com/user-attachments/assets/4c5591c7-e59a-4fde-8af9-723243ce0cf1)
