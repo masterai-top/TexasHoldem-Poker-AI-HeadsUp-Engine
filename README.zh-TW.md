@@ -165,11 +165,6 @@ MasterAI 基於**賽局理論(GTO) + 深度學習 + 強化學習**，採用以�
 
 ## 📸 實戰截圖
 
-
-| AI對戰界面 | 勝率曲線 | 技術架構 |
-
-| :---: | :---: | :---: |
-
 MasterAI賽事狀況如下 ：
 ![640](https://github.com/user-attachments/assets/8982ce0a-4d9b-4c55-bfb2-ec8228e1a23a)
 ![640 (1)](https://github.com/user-attachments/assets/4c5591c7-e59a-4fde-8af9-723243ce0cf1)
